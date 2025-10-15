@@ -1,2 +1,2 @@
-Kurs: Technologie DevOps
-Kurs: DevOps
+Autor: Adrian Białek
+Kurs: Technologie DevOps 2025
